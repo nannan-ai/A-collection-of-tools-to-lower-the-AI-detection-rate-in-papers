@@ -1,2 +1,2 @@
-# Paper for Reducing AI Probability Tools
+# Tools for Reducing AI Probability Papers
 熟练掌控工具后，如今论文不求人的学姐一枚，专注分享： 1.全网写作/降重软件实测，帮你避坑排雷 2.精准有利的降重口令（Prompt） | 高能偷懒组合技 3.句句都是大实话，纯靠实操干货发电 码住南南，开启写论文简单模式
