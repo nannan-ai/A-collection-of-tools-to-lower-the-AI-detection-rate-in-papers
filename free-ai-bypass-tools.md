@@ -12,7 +12,8 @@
 
 很多人一开始找免费降低ai率的途径，都会首选这些通用大模型。只要你输入合理的提示词，让它帮你润色段落，确实能起到一定的降ai作用。
 
-Image
+<img width="1280" height="623" alt="image" src="https://github.com/user-attachments/assets/57bff97b-a63f-4e78-90fd-9a2b367c83e0" />
+
 但在实际使用场景里，它非常消耗精力和时间，你必须一段一段地复制粘贴进去。润色后，还需要自己再重排一遍文章格式。它比较适合手里预算为零、且有大把时间的朋友，用来处理几百字的小段落还行，长文本真的很折腾。
 
 ## 2、笔灵AI
@@ -32,6 +33,7 @@ Image
 ## 3、PaperPass
 
 **传送门**：[访问 PaperPass](https://www.paperpass.com/)
+
 这算是一个老牌子了，不仅能做自媒体文稿，或日常报告的常规内容合规排查，这几年也推出了专门的降低ai率功能。
 
 <img width="1280" height="590" alt="image" src="https://github.com/user-attachments/assets/e21881e5-2da0-4cb7-8103-e5e9dbe82fd8" />
@@ -51,6 +53,7 @@ Image
 ## 5、SpeedAI
 
 **传送门**：[访问 SpeedAI](https://www.speedai.cn/)
+
 这款工具可以同时润色多篇文章，效率很高，速度很快。对有大量润色文章需求的朋友来说很友好。
 
 <img width="1280" height="554" alt="image" src="https://github.com/user-attachments/assets/c97b6bb0-915c-4296-af28-d422cf5326b5" />
